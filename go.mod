@@ -1,4 +1,4 @@
-module github.com/alexckes/osproject1
+module github.com/Alexckes/OSproject2
 
 go 1.22
 
